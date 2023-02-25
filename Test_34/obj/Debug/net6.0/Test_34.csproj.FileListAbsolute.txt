@@ -1,0 +1,15 @@
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.csproj.AssemblyReference.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.AssemblyInfoInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.AssemblyInfo.cs
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.csproj.CoreCompileInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\bin\Debug\net6.0\Test_34.exe
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\bin\Debug\net6.0\Test_34.deps.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\bin\Debug\net6.0\Test_34.runtimeconfig.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\bin\Debug\net6.0\Test_34.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\bin\Debug\net6.0\Test_34.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\refint\Test_34.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\Test_34.genruntimeconfig.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C5\Test_34\obj\Debug\net6.0\ref\Test_34.dll
